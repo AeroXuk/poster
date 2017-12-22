@@ -21,5 +21,4 @@ Suggests: knitr,
     rmarkdown,
     testthat
 VignetteBuilder: knitr
-OS_type: unix
 NeedsCompilation: yes
